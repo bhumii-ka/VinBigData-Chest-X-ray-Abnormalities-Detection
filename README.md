@@ -38,9 +38,9 @@ Kaggle Notebook Link: https://www.kaggle.com/code/bhumiikaa/x-ray-model-yolov11m
 The model successfully detects various chest abnormalities with reasonable accuracy for a medical AI system. Below are some inference examples:
 
 <!-- Add your inference results here -->
-![Inference Example 1]("https://github.com/user-attachments/assets/b3a5ebf2-f2eb-4c4f-9d7b-f22f9b03f271")
-*Example detection showing multiple chest abnormalities with confidence scores*
+#### Example detection showing multiple chest abnormalities with confidence scores
+<img width="1200" height="800" alt="Screenshot 2025-08-25 002609" src="https://github.com/user-attachments/assets/67b1e08b-54e2-46a6-910e-c68736dcd2da" />
 
-![Inference Example 2](<img width="1203" height="776" alt="image" src="https://github.com/user-attachments/assets/8b21c33f-9b83-40a2-ba5c-7a0e31b4c719" />
-)
-*Successful detection of  Aortic enlargements and Cardiomegaly*
+#### Successful detection of  Aortic enlargements and Cardiomegaly
+<img width="870" height="500" alt="image" src="https://github.com/user-attachments/assets/8b21c33f-9b83-40a2-ba5c-7a0e31b4c719" />
+
